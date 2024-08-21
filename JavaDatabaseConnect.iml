@@ -8,15 +8,6 @@
     <content url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.25.jar!/" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.25.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
